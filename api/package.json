@@ -19,7 +19,7 @@
     "eslint": "8.57.0",
     "eslint-plugin-import": "2.29.1",
     "joi": "17.12.2",
-    "jose": "4.15.5",
+    "jose": "5.2.3",
     "toucan-js": "2.7.0",
     "typescript": "5.4.2",
     "uuid": "9.0.1",
