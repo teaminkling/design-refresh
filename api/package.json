@@ -6,7 +6,7 @@
     "build": "tsc; esbuild dist/api/src/index.js --bundle --format=esm --minify --outfile=out/index.js"
   },
   "engines": {
-    "node": "18"
+    "node": "20"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "4.20240222.0",

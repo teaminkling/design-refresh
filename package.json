@@ -6,7 +6,7 @@
     "lint": "next lint"
   },
   "engines": {
-    "node": "18"
+    "node": "20"
   },
   "dependencies": {
     "@auth0/auth0-react": "1.12.1",
@@ -37,7 +37,7 @@
     "uuid": "9.0.1"
   },
   "devDependencies": {
-    "@types/node": "18.19.23",
+    "@types/node": "20.11.30",
     "@types/react": "18.2.65",
     "@types/react-beautiful-dnd": "13.1.8",
     "@types/remove-markdown": "0.3.4",
