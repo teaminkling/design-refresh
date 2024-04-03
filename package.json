@@ -9,7 +9,7 @@
     "node": "18"
   },
   "dependencies": {
-    "@auth0/auth0-react": "1.12.1",
+    "@auth0/auth0-react": "2.2.4",
     "@fancyapps/ui": "4.0.31",
     "@fortawesome/fontawesome-svg-core": "6.5.1",
     "@fortawesome/free-brands-svg-icons": "6.5.1",
