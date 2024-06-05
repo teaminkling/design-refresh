@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@auth0/auth0-react": "1.12.1",
-    "@fancyapps/ui": "4.0.31",
+    "@fancyapps/ui": "5.0.36",
     "@fortawesome/fontawesome-svg-core": "6.5.2",
     "@fortawesome/free-brands-svg-icons": "6.5.2",
     "@fortawesome/free-solid-svg-icons": "6.5.2",
